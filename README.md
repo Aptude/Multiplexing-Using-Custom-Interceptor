@@ -4,5 +4,5 @@ The main objective of our Custom Interceptor and Multiplexing is to Split the he
 
 Brought to you by [Aptude Hadoop Consulting](http://www.aptude.com/it/services/big-data-consulting-services/hadoop-consulting-services) 
 
-For detailed information regarding this article please visit our Flume Multiplexing for Hadoop Page.  ( link to http://aptude.com/it/flume-multi-plexing-for-hadoop).
+For detailed information regarding this article please visit our [Flume Multiplexing for Hadoop Page](http://aptude.com/it/flume-multi-plexing-for-hadoop).
 
